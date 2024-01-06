@@ -1,0 +1,23 @@
+.container{
+    border: 5px solid green;
+}
+.container-fluid{
+    border: 10px solid blue;
+}
+.box1{
+    min-height:  250px;
+    background:  blue;
+
+}
+.box2{
+    min-height: 250px;
+    background: yellow;
+}
+.box3{
+    min-height: 250px;
+    background: red;
+}
+.box4{
+    min-height: 250px;
+    background: white;
+}
